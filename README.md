@@ -10,12 +10,12 @@
   
 <div align="center">
   <a href="https://github.com/jhonatas2001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jhonatas2001&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jhonatas2001&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&title_color=FF6B6B&icon_color=FF6B6B"/>
+
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatas2001&layout=compact&langs_count=7&theme=vision-friendly-dark&title_color=FF6B6B"/>
+
 <div style="display: inline_block"><br>
 </div>
-  
-<div style="display: inline_block"><br>
 
 
   
