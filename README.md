@@ -1,9 +1,9 @@
 ## Hi, Welcome.
 
 <p align="right">
-  <img alt="jhonatas2001's visitors" src="https://komarev.com/ghpvc/?username=irmaodojorel42&color=8c36db&style=flat&label=visitors" />
-  <img alt="jhonatas2001's followers" src="https://img.shields.io/github/followers/irmaodojorel42?color=blueviolet" />
-  <img alt="jhonatas2001's stars" src="https://img.shields.io/github/stars/irmaodojorel42?color=blueviolet" />
+  <img alt="jhonatas2001's visitors" src="https://komarev.com/ghpvc/?username=jhonatas2001&color=8c36db&style=flat&label=visitors" />
+  <img alt="jhonatas2001's followers" src="https://img.shields.io/github/followers/jhonatas2001?color=blueviolet" />
+  <img alt="jhonatas2001's stars" src="https://img.shields.io/github/stars/jhonatas2001?color=blueviolet" />
   <img align="center" alt="Henri-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   
 - 👨🏽‍🎓 software engineering student at [42 Lisbon](https://www.42lisboa.com/)! ✨
